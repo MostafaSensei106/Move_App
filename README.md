@@ -91,7 +91,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/your_username/move_app.git
+    git clone https://github.com/MostafaSensei106/move_app.git
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -114,11 +114,10 @@ To get a local copy up and running, follow these simple steps.
 
 ## 🖼️ Screenshots
 
-_(This section is reserved for screenshots of the application. Add your UI images here.)_
-
-| Home Screen                                                                          | Details Screen                                                                             |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| ![Home Screen Placeholder](https://via.placeholder.com/300x600.png?text=Home+Screen) | ![Details Screen Placeholder](https://via.placeholder.com/300x600.png?text=Details+Screen) |
+| Home Screen                                                       | Details Screen                                                    |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="ScreenShot/Screenshot_20251101_110235.png" width="400"> | <img src="ScreenShot/Screenshot_20251101_110250.png" width="400"> |
+| <img src="ScreenShot/Screenshot_20251101_110300.png" width="400"> |
 
 ---
 
@@ -159,5 +158,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/MostafaSensei106">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/MostafaSensei106">MostafaSensei</a>
 </p>
